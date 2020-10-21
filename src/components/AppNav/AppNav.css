@@ -1,0 +1,28 @@
+.img{
+   padding-left: 13px;
+}
+
+.fondoN{
+    background-color: #B9D6F3;
+}
+
+.fondoA{
+ background-color: #F1E8D9;
+}
+
+.fondoF{
+    background-color: #007272;
+}
+
+.fondoR{
+    background-color: #02a4a4;
+}
+
+.tLetra{
+    font-family: 'Dosis', sans-serif;
+}
+
+.centrar{
+    display: flex;
+    justify-content: center;
+}

@@ -1,0 +1,37 @@
+.centrarTitulo{
+    display: flex;
+    justify-content: center;
+}
+
+.fondo{
+    background-image: url(../../img/png-clipart-fizz-league-of-legends-sticker-league-of-legends.png);
+}
+
+.centrarDiv{
+    display: flex;
+    justify-content: space-around;
+    align-items: center; 
+}
+
+
+.tarjetagrande{
+    width: 80mm;
+}
+
+
+.centrartexto{
+    text-align: center;
+}
+
+.letra{
+    font-family: 'Caveat', cursive;
+font-family: 'Ranchers', cursive;
+}
+
+.lChiquita{
+    font-family: 'Ubuntu Condensed', sans-serif;
+}
+
+.rojito{
+    background-color: #fd4d2e;
+}
